@@ -1,6 +1,6 @@
 ---
 title: Command lines flutter usually use
-date: "2017-06-22T22:40:32.169Z"
+date: "2020-06-22T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "command-line-flutter"
