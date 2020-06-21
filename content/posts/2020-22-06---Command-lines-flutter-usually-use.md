@@ -13,20 +13,20 @@ socialImage: "/media/42-line-bible.jpg"
 ---
 # ios
 
-- khoiw dong simulator
+- start simulator
 
 ```bash
 	open -a simulator
 ```
 
-- install set up cocoapods chi can chay lan dau cai dat
+- install set up cocoapods run first
 
 ```bash
 sudo gem install cocoapods
 pod setup
 ```
 
-- open xcode de run build project ra may that. chojn thiet bi that de build
+- open xcode run project, choose device before run
 
 ```bash
 open ios/Runer.xcworkspace
@@ -40,7 +40,7 @@ open ios/Runer.xcworkspace
 	flutter create new_project
 ```
 
-- run project, phai khoi chay may ao truoc,
+- run project, require simulator
 
 ```bash
 cd new_project
